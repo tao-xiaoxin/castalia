@@ -9,7 +9,8 @@
 1、克隆仓库
 2、安装依赖：`npm install`
 3、运行：`npm run dev`
-
+4、打包项目:`npm run build`
+5、导出项目:`npm run export`
 ## 添加资源
 
 目前网站上的资源都采用 json 文件数据进行配置。
