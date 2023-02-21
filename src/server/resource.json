@@ -386,8 +386,31 @@
                 "description": "电脑主题，壁纸，字体等美化平台。",
                 "url": "https://zhutix.com/",
                 "image": "./images/site/meihua.png"
+            },
+            {
+                "name": "ChatGPT",
+                "description": "火热的AI聊天问答机器人",
+                "url": "https://chat.openai.com/chat",
+                "image": "./images/site/apple-touch-icon.png"
+            },
+            {
+                "name": "AIAPI",
+                "description": "免费的API接口平台",
+                "url": "https://www.alapi.cn/",
+                "image": "./images/site/logo-alapi.png"
+            },
+            {
+                "name": "阿里云开发工具箱",
+                "description": "时间戳转换,fonction.ico在线制作工具箱",
+                "url": "https://developer.aliyun.com/skills/",
+                "image": "./images/site/ALiCloud.png"
+            },
+            {
+                "name": "Deepl翻译",
+                "description": "最准确的在线翻译软件",
+                "url": "https://www.deepl.com/translator",
+                "image": "./images/site/ALiCloud.png"
             }
-
         ]
     },
     {
